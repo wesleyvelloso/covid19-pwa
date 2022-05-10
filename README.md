@@ -1,3 +1,6 @@
+# PWA Para mapear casos de covid em 5 países
+
+<img src="covid-app.gif" />
 
 ## Available Scripts
 
