@@ -1,5 +1,3 @@
-<img src="react-app.gif"/>
-
 
 ## Available Scripts
 
